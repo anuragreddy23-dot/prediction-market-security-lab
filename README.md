@@ -87,6 +87,22 @@ When a majority staker holding 80%+ of losing positions bribes a trusted reporte
 ```
 
 ---
+# 👨‍💻 Author
+
+**Mothe Anurag Reddy**
+
+B.Tech Computer Science & Engineering
+
+Sreenidhi Institute of Science and Technology
+
+EtherAuthority Web3 Internship
+
+GitHub: https://github.com/anuragreddy23-dot
+
+LinkedIn: https://www.linkedin.com/in/anuragreddy-mothe-21a699329
+
+---
+
 ## 🌐 Live Demo
 
 Explore the deployed application here: **[https://prediction-market-security-lab.vercel.app](https://prediction-market-security-lab.vercel.app/)**
