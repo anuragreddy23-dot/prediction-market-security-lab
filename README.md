@@ -87,6 +87,13 @@ When a majority staker holding 80%+ of losing positions bribes a trusted reporte
 ```
 
 ---
+## 🌐 Live Demo
+
+Explore the deployed application here: **[https://prediction-market-security-lab.vercel.app](https://prediction-market-security-lab.vercel.app/)**
+
+Navigate through the **Prediction Markets Hub**, step through live exploits in the **Security Exploit Lab**, and review the **Audit Report Viewer** — all directly in your browser, no setup required.
+
+---
 
 ## 💻 Running the Security Research Lab Locally
 
